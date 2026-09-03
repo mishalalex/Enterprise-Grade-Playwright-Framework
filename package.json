@@ -1,5 +1,5 @@
 {
-  "name": "phase2-starter-framework",
+  "name": "enterprise-grade-playwright-framework",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,16 +9,16 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anuradha-learn/phase2-starter-framework.git"
+    "url": "git+https://github.com/mishalalex/Enterprise-Grade-Playwright-Framework.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/anuradha-learn/phase2-starter-framework/issues"
+    "url": "https://github.com/mishalalex/Enterprise-Grade-Playwright-Framework/issues"
   },
-  "homepage": "https://github.com/anuradha-learn/phase2-starter-framework#readme",
+  "homepage": "https://github.com/mishalalex/Enterprise-Grade-Playwright-Framework#readme",
   "devDependencies": {
     "@playwright/test": "^1.62.1",
     "@types/node": "^26.4.1"
